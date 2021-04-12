@@ -1,4 +1,6 @@
-# hello-word
-Just another respository
-hello humans.
-I came from xxx.I like javascipt.
+# 真是令人无奈啊
+原来有一个账号puwenxin。
+然而太长时间不登，密码忘记料！！！！
+迁移了一些东西来新的空间。
+包括：博客：puwenxin.github.io。（最后更新时间2018年11月）
+ssm秒杀系统。
